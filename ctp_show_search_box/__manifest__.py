@@ -7,7 +7,7 @@
 ###################################################################################
 
 {
-    'name': 'Cybernetics Plus Show Search Box',
+    'name': 'Show Home Backend Search Box',
     'version': '15.0.1.0.1',
     'summary': """ 
             Cybernetics Plus Tools Show Home Backend Search Box
